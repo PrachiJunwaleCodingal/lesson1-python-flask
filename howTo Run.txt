@@ -1,0 +1,4 @@
+#open terminal using app.py file
+then write python app.py on terminal
+then copy http://127.0.0.1:5000 
+and paste on browser to check
